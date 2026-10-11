@@ -1,0 +1,81 @@
+skill_name,total_postings,specialization_name,postings_in_specialization
+Python,4008,Deep Learning,542
+Python,4008,Generative AI,533
+Python,4008,Reinforcement Learning,511
+Python,4008,Robotics,510
+Python,4008,Computer Vision,491
+Python,4008,NLP,484
+Python,4008,Machine Learning,475
+Python,4008,Other,462
+PyTorch,1396,Robotics,195
+PyTorch,1396,Deep Learning,192
+PyTorch,1396,Generative AI,186
+PyTorch,1396,Machine Learning,172
+PyTorch,1396,NLP,172
+PyTorch,1396,Other,172
+PyTorch,1396,Computer Vision,158
+PyTorch,1396,Reinforcement Learning,149
+SQL,981,Reinforcement Learning,140
+SQL,981,Generative AI,130
+SQL,981,Deep Learning,129
+SQL,981,Computer Vision,127
+SQL,981,Machine Learning,122
+SQL,981,Other,115
+SQL,981,NLP,114
+SQL,981,Robotics,104
+Research,868,Robotics,137
+Research,868,Deep Learning,113
+Research,868,Generative AI,112
+Research,868,Computer Vision,107
+Research,868,Reinforcement Learning,106
+Research,868,NLP,104
+Research,868,Other,95
+Research,868,Machine Learning,94
+AWS/GCP/Azure,846,Generative AI,128
+AWS/GCP/Azure,846,Deep Learning,115
+AWS/GCP/Azure,846,Reinforcement Learning,107
+AWS/GCP/Azure,846,Robotics,106
+AWS/GCP/Azure,846,Machine Learning,101
+AWS/GCP/Azure,846,Computer Vision,98
+AWS/GCP/Azure,846,NLP,96
+AWS/GCP/Azure,846,Other,95
+AWS/GCP,752,Generative AI,108
+AWS/GCP,752,NLP,107
+AWS/GCP,752,Other,105
+AWS/GCP,752,Deep Learning,103
+AWS/GCP,752,Reinforcement Learning,94
+AWS/GCP,752,Computer Vision,84
+AWS/GCP,752,Robotics,77
+AWS/GCP,752,Machine Learning,74
+Deep Learning,718,Robotics,114
+Deep Learning,718,Generative AI,101
+Deep Learning,718,Deep Learning,97
+Deep Learning,718,NLP,88
+Deep Learning,718,Other,82
+Deep Learning,718,Computer Vision,81
+Deep Learning,718,Machine Learning,79
+Deep Learning,718,Reinforcement Learning,76
+C++,689,Deep Learning,103
+C++,689,Other,92
+C++,689,Computer Vision,91
+C++,689,Robotics,86
+C++,689,Reinforcement Learning,86
+C++,689,Generative AI,84
+C++,689,Machine Learning,80
+C++,689,NLP,67
+Teaching,614,Robotics,86
+Teaching,614,Reinforcement Learning,85
+Teaching,614,Generative AI,85
+Teaching,614,Computer Vision,80
+Teaching,614,NLP,76
+Teaching,614,Deep Learning,76
+Teaching,614,Machine Learning,68
+Teaching,614,Other,58
+Docker,584,Robotics,87
+Docker,584,Generative AI,80
+Docker,584,Other,76
+Docker,584,Computer Vision,72
+Docker,584,Reinforcement Learning,72
+Docker,584,Deep Learning,71
+Docker,584,NLP,64
+Docker,584,Machine Learning,62
